@@ -10,4 +10,8 @@ https://developer.spotify.com/console/post-playlists/?user_id=&body=%7B%22name%2
 ### Requirements 
 Only depencencies are on the requests and json libraries. <br/>
 `pip install requests` <br/>
-`pip install json` 
+`pip install json` <br/>
+
+### To-Do
+Error Handling <br/>
+Fix search functionality <br/>
